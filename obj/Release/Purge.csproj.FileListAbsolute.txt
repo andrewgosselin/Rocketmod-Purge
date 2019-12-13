@@ -1,0 +1,5 @@
+I:\Purge\bin\Release\Purge.dll
+I:\Purge\bin\Release\Purge.pdb
+I:\Purge\obj\Release\Purge.csproj.CoreCompileInputs.cache
+I:\Purge\obj\Release\Purge.dll
+I:\Purge\obj\Release\Purge.pdb

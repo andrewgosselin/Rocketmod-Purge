@@ -1,0 +1,11 @@
+I:\OfflineRaids\bin\Release\OfflineRaid.dll
+I:\OfflineRaids\bin\Release\OfflineRaid.pdb
+I:\OfflineRaids\obj\Release\OfflineRaid.csproj.CoreCompileInputs.cache
+I:\OfflineRaids\obj\Release\OfflineRaid.dll
+I:\OfflineRaids\obj\Release\OfflineRaid.pdb
+I:\Purge\bin\Release\Purge.dll
+I:\Purge\bin\Release\Purge.pdb
+I:\Purge\obj\Release\OfflineRaid.csprojAssemblyReference.cache
+I:\Purge\obj\Release\OfflineRaid.csproj.CoreCompileInputs.cache
+I:\Purge\obj\Release\Purge.dll
+I:\Purge\obj\Release\Purge.pdb

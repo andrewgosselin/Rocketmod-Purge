@@ -1,0 +1,6 @@
+I:\Purge\bin\Debug\Purge.dll
+I:\Purge\bin\Debug\Purge.pdb
+I:\Purge\obj\Debug\Purge.csproj.CoreCompileInputs.cache
+I:\Purge\obj\Debug\Purge.dll
+I:\Purge\obj\Debug\Purge.pdb
+I:\Purge\obj\Debug\Purge.csprojAssemblyReference.cache
